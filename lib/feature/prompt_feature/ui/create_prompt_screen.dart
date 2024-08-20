@@ -19,8 +19,7 @@ class CreatePromptScreen extends StatefulWidget {
 
 class _CreatePromptScreenState extends State<CreatePromptScreen> {
 
-  // var apiKey="sk-proj-OBVelm98SIU52nWFSypmT3BlbkFJLN5b6Z2TcTugfBNkXRuv";
-  var stability_apiKey = 'sk-4Cpm1amlYUNbF3z40BQwHa84zlhlZmi6zi4dLRN9XSwpYsOb';
+  var stability_apiKey = 'your-api-key';
   var imageUrl='';
   // var prompt='';
   // TextEditingController
